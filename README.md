@@ -1,2 +1,2 @@
 # PrimeiroCampoMinado
-This project is my first minesweeper made in java-swing, guided and instructed by the java course on Udemy
+Este projeto é meu primeiro campo minado feito em java-swing, guiado e instruído pelo curso de java completo na Udemy
